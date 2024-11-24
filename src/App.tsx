@@ -11,6 +11,7 @@ function App() {
           куку  wa aa ептawdawdawdawdааааааааааааааааааа
         </p>
         <p>waawdaw awdddadwww</p>
+        <p>vetca 2</p>
         <a
           className="App-link"
           href="https://reactjs.org"
